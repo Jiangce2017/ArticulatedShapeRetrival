@@ -10,6 +10,9 @@
 - scipy 1.4.1
 - grakel 
 
+# Download MDBD dataset from the link below
+https://drive.google.com/drive/folders/1LCNmY648XAbskm7ewzqLfpr6-VhF6BE3?usp=sharing
+
 # Run
 ** Generate graph data **
 ```
